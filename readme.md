@@ -4,6 +4,12 @@ Aplikasi dashboard interaktif untuk memprediksi potensi nasabah berhenti berlang
 
 ## 🖼️ Preview
 
+![Tampilan Dashboard](tampilan1.png)
+
+![Tampilan Dashboard](tampilan2.png)
+
+![Tampilan Dashboard](tampilan3.png)
+
 ## ✨ Fitur Unggulan
 
 - **Dual-Language Architecture**:
