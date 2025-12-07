@@ -5,7 +5,7 @@ from psycopg2 import Error
 DB_HOST = "localhost"
 DB_NAME = "churn"      
 DB_USER = "postgres"       
-DB_PASS = "password postgres kamu" 
+DB_PASS = "lankocak" 
 DB_PORT = "5432"
 
 def create_connection():
